@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "hello $hostname"
+echo "hello $HOSTNAME"
 who
 date
